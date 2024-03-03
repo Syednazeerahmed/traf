@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/traf/static/css/main.2669d779.css",
+    "main.js": "/traf/static/js/main.ec9d44ad.js",
+    "static/media/Mulish-VariableFont_wght.ttf": "/traf/static/media/Mulish-VariableFont_wght.c3d26f19ac7f56a0fd74.ttf",
+    "static/media/MaskGroup-3.png": "/traf/static/media/MaskGroup-3.27a15b115af6591b2345.png",
+    "static/media/MaskGroup-1.png": "/traf/static/media/MaskGroup-1.546f3395bd9966ab42e3.png",
+    "static/media/MaskGroup-2.png": "/traf/static/media/MaskGroup-2.038fcfcda3038ffea9b3.png",
+    "index.html": "/traf/index.html",
+    "main.2669d779.css.map": "/traf/static/css/main.2669d779.css.map",
+    "main.ec9d44ad.js.map": "/traf/static/js/main.ec9d44ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2669d779.css",
+    "static/js/main.ec9d44ad.js"
+  ]
+}
